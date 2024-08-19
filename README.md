@@ -4,6 +4,8 @@
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-oliveirs&show_icons=true&theme=dracula)
 
+[![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lucas-oliveirs)](https://github-readme-stats)
+
 ## Tecnologias que estou aprendendo
 
 <div style="display: inline-block"><br/>
