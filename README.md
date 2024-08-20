@@ -27,10 +27,5 @@
 
 ## 🧑🏻‍💻 Estudante de Desenvolvimento de Sistemas
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🌱 Interesses:
-
-- Desenvolvimento de Software
-- Colaboração em Projetos Open Source
-- Aprendizado Contínuo em Novas Tecnologias
