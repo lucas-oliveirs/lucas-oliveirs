@@ -25,7 +25,4 @@
   <img align="center" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div> <br/>
 
-## 🧑🏻‍💻 Estudante de Desenvolvimento de Sistemas
-
-<img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
