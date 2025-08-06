@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-oliveirs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-oliveirs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-oliveirs&layout=compact&theme=dracula&hide_title=true" height="150"/>
 
