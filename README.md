@@ -3,7 +3,7 @@
 
 ## 💡 Sobre mim
 
-- 🔎 Estudante de Redes de Computdores.
+- 🔎 Estudante de Redes de Computadores.
 - 🧠 Interesse por Programação, Algoritmos, Sistemas Operacionais, Administração de Redes e Cybersegurança.
 - 📚 Em constante aprendizado contínuo.
 
